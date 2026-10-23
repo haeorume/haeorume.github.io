@@ -16,8 +16,7 @@
 
 ## 🎨 미리보기
 
-- **데모 사이트**: http://192.168.219.102:8088/
-- **GitHub Pages**: https://test.github.io
+- **데모 사이트**: https://haeorume.github.io/
 
 ## 📝 FAQ
 
